@@ -168,7 +168,7 @@
 \setdigitfont[Scale=1.1]{Yas}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 % تعریف قلم‌های فارسی و انگلیسی اضافی برای استفاده در بعضی از قسمت‌های متن
-\defpersianfont\nastaliq[Language=Default,Scale=2.5]{IranNastaliq}[AutoFakeBold]
+\defpersianfont\nastaliq[Language=Default,Scale=2.5,AutoFakeBold]{IranNastaliq}
 \defpersianfont\chapternumber[Language=Default,Scale=1.5,BoldFont={IRlotus}]{IRLotus}
 }
 \graphicspath{ {Images/} }
